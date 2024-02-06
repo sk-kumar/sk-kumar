@@ -4,8 +4,8 @@
     <img alt="Developer Pic"
         src="https://img.freepik.com/premium-vector/programmer-engineering-development-coding-web-development-website-design-developer-vector_199064-126.jpg?w=740" width="350"/>
     <br/><br/>
-    <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Fullstack Developer</b> 🚀 from <b>Bihar, India</b> <img
+    <p>🙏🏻 Welcome to my GitHub profile!<br />
+        I'm a <b>Fullstack Developer</b> 🚀 from <b>Bihar, India</b> <img
             src="#" width="14" /> 
     <div>
         <a href="https://twitter.com/#" target="_blank"><img alt="Twitter"
